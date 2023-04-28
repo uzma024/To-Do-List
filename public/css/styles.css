@@ -120,7 +120,8 @@ footer {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color:  #fa6690f5 50%;
+  /* background-color:  #fa6690f5 50%; */
   font-weight: 1000;
-  color: white;
+  /* color: white; */
 }
+
